@@ -211,14 +211,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 ## LED OFF:
 
+![op1](https://github.com/Vineesh-AI-DS/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427254/f4ead324-c18b-4784-b914-33d0f52b4e0f)
 
 ## LED ON:
+![op2](https://github.com/Vineesh-AI-DS/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427254/92127249-311f-4661-865f-9b24218fcd7a)
 
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![op3](https://github.com/Vineesh-AI-DS/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/93427254/873c1e8b-12f2-425c-8af7-fe1201fe2d3b)
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
